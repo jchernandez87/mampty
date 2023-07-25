@@ -1,2 +1,2 @@
 # mampty
-A JS project using geolocation
+A JS project using geolocation API
