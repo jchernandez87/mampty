@@ -62,7 +62,7 @@ class Cycling extends Workout {
 
 class App {
   #map;
-  #mapZoomLevel = 13;
+  #mapZoomLevel = 15;
   #mapEvent;
   #workouts = [];
 
