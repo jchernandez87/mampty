@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Bankist</h3>
     <p align="center">
-      <h2 align="center"><a href="https://bankist-appjc.netlify.app/">View Deploy</a></h2>
+      <h2 align="center"><a href="https://mamptyapp.netlify.app/">View Deploy</a></h2>
     </p>
 </p>
 
