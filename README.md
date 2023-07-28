@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Bankist</h3>
+  <h1 align="center">Mampty</h3>
     <p align="center">
       <h2 align="center"><a href="https://mamptyapp.netlify.app/">View Deploy</a></h2>
     </p>
